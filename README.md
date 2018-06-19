@@ -1,4 +1,4 @@
-# Vue.js
+# Vue.js Projects and Examples
 Vue.js User Input to Array and display
 
 
